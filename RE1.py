@@ -1,5 +1,4 @@
 import re
-
 pattern = '^a...s$'
 
 #test_string = 'albatross'
